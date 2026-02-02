@@ -7,5 +7,6 @@
 
 <svelte:head>
   <link rel="icon" href={favicon} />
+  <title>gandan</title>
 </svelte:head>
 {@render children()}
