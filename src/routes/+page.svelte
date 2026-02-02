@@ -64,4 +64,8 @@
   />
 
   <MessageBubbles messages={['mail me at:', { content: mail, href: 'mailto:hey@gandan.dev' }]} />
+
+  <p class="mt-10 mb-8 text-center text-sm text-balance text-zinc-400">
+    if you've noticed the custom message bubbles, you're an amazing person
+  </p>
 </div>
