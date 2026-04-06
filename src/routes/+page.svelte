@@ -8,10 +8,6 @@
   <span class="font-semibold">quiro</span>
 {/snippet}
 
-{#snippet likeActually()}
-  (like, <i class="ml-1">actually</i>)
-{/snippet}
-
 {#snippet xLink()}
   <svg height="15" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path
@@ -47,9 +43,8 @@
   <MessageBubbles
     messages={[
       { content: quiroMessage },
-      "it's an ai study app that actually teaches you",
-      { content: likeActually },
-      'think duolingo but for any textbook 😎'
+      'imagine duolingo...',
+      'but for learning literally anything 😎'
     ]}
   />
 
